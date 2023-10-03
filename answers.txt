@@ -4,3 +4,7 @@ appears as if the changes from one  branch were made on top of another branch. T
 that a merge preserves the history of the branches, while a rebase rewrites it. This means that if you merge two branches, you can 
 still see the changes that were made on each branch, but if you rebase one branch on top of another, you will only be able to see 
 the changes that were made on the second branch.
+
+What is a remote repository?
+A remote repository is a version of a project that is hosted on internet or a network. 
+Remote repositories are linked so that changes made to one can be pushed to the other.
